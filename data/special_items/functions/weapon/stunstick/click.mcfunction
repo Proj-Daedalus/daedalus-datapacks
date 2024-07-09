@@ -1,0 +1,1 @@
+execute if score @s stunstick_charge matches 1.. run scoreboard players set @s stunstick_active 6

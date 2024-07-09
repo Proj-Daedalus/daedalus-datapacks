@@ -1,0 +1,1 @@
+$teleport @s ~ ~ ~ ~$(rot0) ~$(rot1)

@@ -1,0 +1,1 @@
+give @p candle{display:{Name:'{"text":"White Flare"}',Lore:['{"text":"ammo for a flare gun."}','{"text":"Burns Magnesium."}']},CustomModelData:6,flare:1b,color:4b} 1

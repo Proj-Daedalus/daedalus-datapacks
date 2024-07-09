@@ -1,0 +1,1 @@
+give @s snowball{display:{Name:'{"text":"Molotov Cocktail"}',Lore:['{"text":"Combusts into flame upon impact,"}','{"text":"leaving fire on the ground."}','{"text":"2 Second cooldown"}']},CustomModelData:3,Molotov:1b} 1

@@ -1,0 +1,1 @@
+give @p candle{display:{Name:'{"text":"Long-Lasting Blue Flare"}',Lore:['{"text":"ammo for a flare gun."}','{"text":"travels twice as far."}','{"text":"Burns Copper Sulfate."}']},CustomModelData:30,flare:1b,color:1b,longflare:1b} 1

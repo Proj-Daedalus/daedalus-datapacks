@@ -1,0 +1,1 @@
+give @p candle{display:{Name:'{"text":"Green Flare"}',Lore:['{"text":"ammo for a flare gun."}','{"text":"Burns Copper Chloride."}']},CustomModelData:4,flare:1b,color:2b} 1

@@ -1,0 +1,1 @@
+execute as @s[type=snowball] run function entities:projectile/snowball

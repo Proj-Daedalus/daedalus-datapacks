@@ -1,0 +1,2 @@
+execute if score @s elec_gun_ammo matches 1.. unless score @s elec_gun_charge matches 60 run function special_items:weapon/elec_gun/use/0
+execute if score @s elec_gun_ammo matches 1.. if score @s elec_gun_charge matches 60 run function special_items:weapon/elec_gun/use/strong0

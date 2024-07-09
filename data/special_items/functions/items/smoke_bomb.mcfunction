@@ -1,0 +1,1 @@
+give @s snowball{display:{Name:'{"text":"Smoke Grenade"}',Lore:['{"text":"Creates a large cloud of smoke"}','{"text":"upon impact."}','{"text":"2 Second cooldown"}']},CustomModelData:1,SmokeBomb:1b} 1

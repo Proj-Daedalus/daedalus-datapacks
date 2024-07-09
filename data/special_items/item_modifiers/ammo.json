@@ -1,0 +1,17 @@
+[
+          {
+            "function": "minecraft:copy_nbt",
+            "source": {
+              "type": "minecraft:storage",
+              "source": "maze_run:scores"
+            },
+            "ops": [
+              {
+                "source": "ammo_fill",
+                "target": "ammo",
+                "op": "replace"
+              }
+            ]
+          }
+        ]
+        

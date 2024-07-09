@@ -1,0 +1,1 @@
+$execute rotated ~$(rot0) ~$(rot1) run function entities:item_display/elec_ground/raycast

@@ -1,0 +1,38 @@
+[
+          {
+            "function": "minecraft:set_nbt",
+            "tag": "{ChargedProjectiles:[{id:\"minecraft:air\",Count:0b},{id:\"minecraft:air\",Count:0b},{id:\"minecraft:air\",Count:0b}],Charged:1b,CustomModelData:3}"
+          },
+          {
+            "function": "minecraft:set_lore",
+            "lore": [
+              {
+                "text": "Right Click to fire."
+              },
+              {
+                "text": "Has a 3 second cooldown."
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "Can hold 1 round.",
+                "color": "dark_gray"
+              },
+              {
+                "text": "Held Flare: ",
+                "color": "gray",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": "None",
+                    "color": "dark_gray",
+                    "italic": false
+                  }
+                ]
+              }
+            ],
+            "replace": true
+          }
+        ]
+        

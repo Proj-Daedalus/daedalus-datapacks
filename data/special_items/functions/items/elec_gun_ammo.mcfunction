@@ -1,0 +1,1 @@
+give @p candle{display:{Name:'{"text":"Launcher ammo"}'},CustomModelData:2,elec_ammo:1b} 1

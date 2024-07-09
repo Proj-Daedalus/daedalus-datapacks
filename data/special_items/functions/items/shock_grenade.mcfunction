@@ -1,0 +1,1 @@
+give @s snowball{display:{Name:'{"text":"Shock Grenade"}',Lore:['{"text":"Shocks nearby entities on impact."}','{"text":"2 Second cooldown"}']},CustomModelData:4,ShockGrenade:1b} 1

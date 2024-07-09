@@ -1,0 +1,2 @@
+execute if predicate players:holding/ranged/gun unless predicate players:holding/data/crossbow_charged run item modify entity @s weapon.mainhand special_items:crossbow_noammo
+execute unless predicate players:holding/ranged/gun if predicate players:holding/ranged/offhand/gun unless predicate players:holding/data/crossbow_charged run item modify entity @s weapon.offhand special_items:crossbow_noammo
